@@ -1,0 +1,21 @@
+{
+	"name": "rblxosFTP-dev",
+	"emitLegacyScripts": false,
+	"tree": {
+		"$className": "DataModel",
+		
+		"ReplicatedStorage": {
+			"Packages": {
+				"$path": "Packages",
+				
+				"rblxosFTP": {
+					"$path": "src"
+				}
+			},
+			
+			"testing": {
+				"$path": "dev"
+			}
+		}
+	}
+}

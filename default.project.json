@@ -1,0 +1,7 @@
+{
+  "name": "rblxosFTP",
+  "emitLegacyScripts": false,
+  "tree": {
+    "$path": "src"
+  }
+}
